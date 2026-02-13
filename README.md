@@ -58,7 +58,4 @@ Jalankan perintah berikut di terminal:
   flutter run
 ```
 
-🤝 Kontribusi
-Kontribusi selalu terbuka! Jika Anda memiliki saran atau menemukan bug, silakan buka Issue atau kirimkan Pull Request.
-
-Dibuat oleh [Faik Irkham](https://faikirkham.my.id)
+Dibuat oleh [Flutfy](https://faikirkham.my.id)
