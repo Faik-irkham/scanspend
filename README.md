@@ -13,7 +13,6 @@
 ## 🛠️ Stack Teknologi
 
 - **Framework**: [Flutter](https://flutter.dev) (Latest Version)
-- **State Management**: BLoC / Provider (sesuai arsitektur Anda)
 - **OCR Engine**: [Google ML Kit Text Recognition](https://developers.google.com/ml-kit/vision/text-recognition)
 - **Image Processing**: `image_picker` & `image_cropper`
 - **Formatting**: `intl` untuk format mata uang IDR dan tanggal lokal.
@@ -21,12 +20,6 @@
 ## 📸 Tampilan Aplikasi
 
 <img src="screenshots/Sc.png" width="200">
-
-### Fitur UI Modern
-
-- **Material 3 Design**: Menggunakan skema warna indigo dan violet yang bersih.
-- **SliverAppBar**: Header dinamis dengan gradasi warna yang elegan.
-- **Custom Cards**: Riwayat transaksi dengan bayangan halus dan sudut membulat.
 
 ## 🚀 Cara Menjalankan
 
@@ -68,4 +61,4 @@ Jalankan perintah berikut di terminal:
 🤝 Kontribusi
 Kontribusi selalu terbuka! Jika Anda memiliki saran atau menemukan bug, silakan buka Issue atau kirimkan Pull Request.
 
-Dibuat dengan ❤️ oleh Faik Irkham
+Dibuat dengan ❤️ oleh [Faik Irkham](https://faikirkham.my.id)
