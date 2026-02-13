@@ -28,7 +28,7 @@
 1. Pastikan Anda sudah menginstal Flutter SDK.
 2. Clone repositori ini:
    ```bash
-    git clone [https://github.com/username/scanspend.git](https://github.com/username/scanspend.git)
+    git clone [https://github.com/Faik-irkham/scanspend.git](https://github.com/Faik-irkham/scanspend.git)
    ```
 
 Konfigurasi Android
