@@ -61,4 +61,4 @@ Jalankan perintah berikut di terminal:
 🤝 Kontribusi
 Kontribusi selalu terbuka! Jika Anda memiliki saran atau menemukan bug, silakan buka Issue atau kirimkan Pull Request.
 
-Dibuat dengan ❤️ oleh [Faik Irkham](https://faikirkham.my.id)
+Dibuat oleh [Faik Irkham](https://faikirkham.my.id)
